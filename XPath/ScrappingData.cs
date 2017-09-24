@@ -6,7 +6,7 @@ namespace XPath
     class ScrappingData
     {
         /// <summary>
-        /// Simple example of data scrapping using the HTMLAgilityPack NuGet
+        /// Simple example of data scraping using the HTMLAgilityPack NuGet
         /// </summary>
         /// <param name="args">No use here</param>
         static void Main(string[] args)
